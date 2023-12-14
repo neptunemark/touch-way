@@ -1,24 +1,24 @@
 const person = {
-    profile_pic: "./image/SUHAIL.jpg",
+    profile_pic: "./image/sabith.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "SUHAIL MUHAMMED K",
-    designation: "Creative Director, Media",
-    des_link_text: "@DBI",
-    des_link: "http://www.dbionline.in/",
-    contact: "./contact/Muhammad Suhail K.vcf",
+    Name: "SABITH ALI",
+    designation: "Filim Maker",
+    des_link_text: "",
+    des_link: "",
+    contact: "./contact/sabith.vcf",
 };
 
 const contact ={
-    contact_no: "+919895206939",
-    whatsapp: "+919895206939",
+    contact_no: "+917034748193",
+    whatsapp: "+917034748193",
     location: "",
     email: "",
 };
 
 const profilelogo=[
   logo={
-    visibil: true,
+    visibil: false,
   }
 ]
 
@@ -26,19 +26,19 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/suhail.sulaiman.1481?mibextid=ZbWKwL"
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/_yes_ms?igshid=NGVhN2U2NjQ0Yg=="
+    link:"https://instagram.com/sabith_alie?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     linkedin={
