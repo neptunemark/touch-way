@@ -1,17 +1,17 @@
 const person = {
-    profile_pic: "./image/sabith.jpeg",
+    profile_pic: "./image/shahin.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "SABITH ALI",
-    designation: "Filim Maker",
+    Name: "Muhammed Shahin",
+    designation: "",
     des_link_text: "",
     des_link: "",
-    contact: "./contact/sabith.vcf",
+    contact: "./contact/Shahin.vcf",
 };
 
 const contact ={
-    contact_no: "+917034748193",
-    whatsapp: "+917034748193",
+    contact_no: "97336756788",
+    whatsapp: "+919544105950;",
     location: "",
     email: "",
 };
@@ -31,7 +31,7 @@ const links =[
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/sabith_alie?igshid=OGQ5ZDc2ODk2ZA=="
+    link:"https://www.instagram.com/shahinpkt?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
     visibil: false,
