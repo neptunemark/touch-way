@@ -1,5 +1,5 @@
 const person = {
-    profile_pic: "./image/shahin.jpeg",
+    profile_pic: "./image/shahink.jpeg",
     profile_logo: "./image/DBI.jpg",
 
     Name: "Muhammed Shahin",
@@ -12,8 +12,8 @@ const person = {
 const contact ={
     contact_no: "97336756788",
     whatsapp: "+919544105950;",
-    location: "",
-    email: "",
+    location: "https://maps.app.goo.gl/SWvHRAoQzd76kZDfA?g_st=ic",
+    email: "mohdshahin.pk@gmail.com",
 };
 
 const profilelogo=[
@@ -26,36 +26,36 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/suhail.sulaiman.1481?mibextid=ZbWKwL"
+    visibil: true,
+    link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
     link:"https://www.instagram.com/shahinpkt?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://join.skype.com/invite/drP1omgbrHHV"
   },
     web={
     visibil: false,
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://www.linkedin.com/in/muhammed-shahin-aa2236237?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app"
   },
     behance={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     x={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: false,
-    link:"muhammedashique9061@gmail.com"
+    visibil: true,
+    link:"mohdshahin.pk@gmail.com"
   },
     google={
     visibil: false,
