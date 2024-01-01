@@ -23,7 +23,7 @@ const profilelogo=[
 ]
 
 const bannerImage={
-  url: "url(./image/banner.jpg)"
+  url: "./image/banner.jpg"
 }
 
 
