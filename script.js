@@ -6,7 +6,7 @@ const person = {
     designation: "Digital Creators",
     des_link_text: "",
     des_link: "",
-    contact: "./contact/Roufath.vcf",
+    contact: "./contact/sabith.vcf",
 };
 
 const contact ={
@@ -30,11 +30,11 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: false,
+    visibil: true,
     link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: false,
+    visibil: true,
     link:"https://www.instagram.com/shahinpkt?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
@@ -46,11 +46,11 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: false,
+    visibil: true,
     link:"https://www.linkedin.com/in/muhammed-shahin-aa2236237?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app"
   },
     behance={
-    visibil: false,
+    visibil: true,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     x={
@@ -58,7 +58,7 @@ const links =[
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: false,
+    visibil: true,
     link:"mohdshahin.pk@gmail.com"
   },
     google={
