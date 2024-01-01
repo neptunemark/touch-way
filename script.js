@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/shahink.jpeg",
-    profile_logo: "./image/DBI.jpg",
+    profile_pic: "./image/women.png",
+    profile_logo: "",
 
-    Name: "Muhammed Shahin",
-    designation: "",
+    Name: "Roufath",
+    designation: "Pharmacist, Al Sulthan Medical center",
     des_link_text: "",
     des_link: "",
-    contact: "./contact/Shahin.vcf",
+    contact: "./contact/Roufath.vcf",
 };
 
 const contact ={
-    contact_no: "97336756788",
-    whatsapp: "+919544105950;",
-    location: "https://maps.app.goo.gl/SWvHRAoQzd76kZDfA?g_st=ic",
-    email: "mohdshahin.pk@gmail.com",
+    contact_no: "+97433758200",
+    whatsapp: "+97433758200",
+    location: "",
+    email: "",
 };
 
 const profilelogo=[
@@ -26,15 +26,15 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/shahinpkt?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
-    visibil: true,
+    visibil: false,
     link:"https://join.skype.com/invite/drP1omgbrHHV"
   },
     web={
@@ -42,7 +42,7 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: true,
+    visibil: false,
     link:"https://www.linkedin.com/in/muhammed-shahin-aa2236237?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app"
   },
     behance={
@@ -50,11 +50,11 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     x={
-    visibil: true,
+    visibil: false,
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"mohdshahin.pk@gmail.com"
   },
     google={
