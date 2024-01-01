@@ -20,17 +20,24 @@
 </head>
 <body>
     
+  <div class="loader-box">
+    <span class="loader"></span>
+  </div>
+
+
+
+
     <div class="box">
         <div class="container ">
             <div class="banner"></div>
             <div class="raw">
                 
                 <div class="profile-div">
-                    <div class="profile"><img class="profile-pic" src="./image/women.png" alt=""></div>
+                    <div class="profile"><img class="profile-pic" src="./image/Pngtree.png" alt=""></div>
                     <div class="profile-logo"><a class="pr-logo-link"  href=""><img class="pr-logo" src="./image/man19152370.jpg" alt=""></a></div>
                 </div>
-                <div class="name-hed"><h2 class="name">Muhammed Niyas MS  </h2><i class="fa-solid fa-badge-check" ></i></div>
-                <div class="designation-div"><p class="designation">Graphic Designer </p><a class="des-link" href="">@hshsh</a></div>
+                <div class="name-hed"><h2 class="name">Neptune Mark</h2><i class="fa-solid fa-badge-check" ></i></div>
+                <div class="designation-div"><p class="designation">Digital Creators</p><a class="des-link" href="">@KnowledgCity</a></div>
                 <div class="button">
                     <a class="contact add-contact" href="" download="">Add to Contact</a>
                     <!-- <a class="contact share-contact connect-btn" onclick="openModal('modal-1')" href="">Connect With Me</a> -->
@@ -47,20 +54,22 @@
                     <a class="contact-icon email" href="" ><i class="fa-sharp fa-solid fa-envelope"></i>  Mail</a>
                 </div>
                 <!-- <a href="https://wa.me/+918089969860?text=niyas muhammed %0a niyasms " data-action="share/whatsapp/share">Share via Whatsapp</a> -->
-                <p class="contactnow">Follow Us</p>
+                <p class="contactnow">Follow Me</p>
                 <div class="social-media">
                     <div class="social-media-icon fb-link"><a class="facebook" href=""><img src="./image/facebook.png" alt=""></a></div>
-                    <div class="social-media-icon insta-link"><a class="instagram" href="www.neptunemark.com"><img src="./image/instagram.png" alt=""></a></div>
-                    <div class="social-media-icon sky-link"><a class="skype" href="www.neptunemark.com"><img src="./image/skype.png" alt=""></a></div>
-                    <div class="social-media-icon web-link"><a class="web" href="www.neptunemark.com"><img src="./image/web.png" alt=""></a></div>
-                    <div class="social-media-icon li-link"><a class="linkedin" href="www.neptunemark.com"><img src="./image/linkedin.png" alt=""></a></div>
-                    <div class="social-media-icon be-link"><a class="behance" href="www.neptunemark.com"><img src="./image/behance.png" alt=""></a></div>
-                    <div class="social-media-icon x-link"><a class="x-app" href="www.neptunemark.com"><img src="./image/x.png" alt=""></a></div>
-                    <div class="social-media-icon mail-link"><a class="mail" href="www.neptunemark.com"><img src="./image/mail.png" alt=""></a></div>
-                    <div class="social-media-icon go-link"><a class="google" href="www.neptunemark.com"><img src="./image/google.png" alt=""></a></div>
-                    <div class="social-media-icon tl-link"><a class="telegram" href="www.neptunemark.com"><img src="./image/telegram.png" alt=""></a></div>
-                    <div class="social-media-icon yo-link"><a class="youtube" href="www.neptunemark.com"><img src="./image/youtube.png" alt=""></a></div>
-                    <div class="social-media-icon pi-link"><a class="pinterest" href="www.neptunemark.com"><img src="./image/pinterest.png" alt=""></a></div>
+                    <div class="social-media-icon insta-link"><a class="instagram" href=""><img src="./image/instagram.png" alt=""></a></div>
+                    <div class="social-media-icon sky-link"><a class="skype" href=""><img src="./image/skype.png" alt=""></a></div>
+                    <div class="social-media-icon web-link"><a class="web" href=""><img src="./image/web.png" alt=""></a></div>
+                    <div class="social-media-icon li-link"><a class="linkedin" href=""><img src="./image/linkedin.png" alt=""></a></div>
+                    <div class="social-media-icon be-link"><a class="behance" href=""><img src="./image/behance.png" alt=""></a></div>
+                    <div class="social-media-icon x-link"><a class="x-app" href=""><img src="./image/x.png" alt=""></a></div>
+                    <div class="social-media-icon mail-link"><a class="mail" href=""><img src="./image/mail.png" alt=""></a></div>
+                    <div class="social-media-icon go-link"><a class="google" href=""><img src="./image/google.png" alt=""></a></div>
+                    <div class="social-media-icon tl-link"><a class="telegram" href=""><img src="./image/telegram.png" alt=""></a></div>
+                    <div class="social-media-icon yo-link"><a class="youtube" href=""><img src="./image/youtube.png" alt=""></a></div>
+                    <div class="social-media-icon pi-link"><a class="pinterest" href=""><img src="./image/pinterest.png" alt=""></a></div>
+                    <div class="social-media-icon tik-link"><a class="tiktok" href=""><img src="./image/tiktok.png" alt=""></a></div>
+                    <div class="social-media-icon snap-link"><a class="snapchat" href=""><img src="./image/snapchat.png" alt=""></a></div>
                 </div>
             </div>
             <div class="bottam">
@@ -159,11 +168,14 @@
        document.querySelector('.email').href="mailto:"+contact.email;
        document.querySelector('.share-info').innerHTML="Share your info with <br><b>"+person.Name+"</b>";
 
+       document.querySelector('.banner').style.backgroundImage = bannerImage.url
+
        if(logo.visibil==true){
         document.querySelector('.pr-logo').src=person.profile_logo;
       }else{
         document.querySelector('.profile-logo').classList.add("remove-link");
       };
+
         
   
 
@@ -229,6 +241,16 @@
       }else{
         document.querySelector('.pi-link').classList.add("remove-link");
       };
+      if(tiktok.visibil==true){
+        document.querySelector('.tiktok').href=tiktok.link
+      }else{
+        document.querySelector('.tik-link').classList.add("remove-link");
+      };
+      if(snapchat.visibil==true){
+        document.querySelector('.snapchat').href=snapchat.link
+      }else{
+        document.querySelector('.snap-link').classList.add("remove-link");
+      };
 
      
       // sharescript
@@ -269,6 +291,15 @@
 
     </script>
 
+
+    <script>
+      window.addEventListener("load", () => {
+      const loder = document.querySelector(".loader-box");
+
+      loder.classList.add("load-end");
+
+    });
+    </script>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>

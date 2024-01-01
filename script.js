@@ -1,17 +1,17 @@
 const person = {
-    profile_pic: "./image/women.png",
+    profile_pic: "./image/pngtree.png",
     profile_logo: "",
 
-    Name: "Roufath",
-    designation: "Pharmacist, Al Sulthan Medical center",
+    Name: "Neptune Mark",
+    designation: "Digital Creators",
     des_link_text: "",
     des_link: "",
     contact: "./contact/Roufath.vcf",
 };
 
 const contact ={
-    contact_no: "+97433758200",
-    whatsapp: "+97433758200",
+    contact_no: "+91123456789",
+    whatsapp: "+91123456789",
     location: "",
     email: "",
 };
@@ -21,6 +21,10 @@ const profilelogo=[
     visibil: false,
   }
 ]
+
+const bannerImage={
+  url: "url(./image/banner.jpg)"
+}
 
 
 
@@ -72,5 +76,13 @@ const links =[
     pinterest={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+  },
+    tiktok={
+    visibil: true,
+    link:"https://www.youtube.com/"
+  },
+    snapchat={
+    visibil: true,
+    link:"https://www.youtube.com/"
   },
 ];
