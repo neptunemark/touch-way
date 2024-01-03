@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/minhaj.jpg",
+    profile_pic: "./image/shakkir.jpeg",
     profile_logo: "",
 
-    Name: "Muhammed Minhaj PA",
-    designation: "CMO",
-    des_link_text: "@Neptunemark",
+    Name: "Mohammed Shakir",
+    designation: "Sales Executive",
+    des_link_text: "@Al Mufrid Building Materials Trading",
     des_link: "https://neptunemark.com/",
-    contact: "./contact/minhaj.vcf",
+    contact: "./contact/shakkir.vcf",
 };
 
 const contact ={
-    contact_no: "+919961121517",
-    whatsapp: "+919961121517",
+    contact_no: "+971526378653",
+    whatsapp: "+971526378653",
     location: "",
-    email: "minhajktp18@gmail.com",
+    email: "almufrid13@gmail.com",
 };
 
 const profilelogo=[
@@ -35,7 +35,7 @@ const links =[
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/kattu_____?igsh=ZGZ4MmFzZDJveGJz"
+    link:"patta_almufrid_dubai"
   },
     skype={
     visibil: false,
@@ -46,7 +46,7 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: true,
+    visibil: false,
     link:"https://www.linkedin.com/in/muhammed-minhaj-p-a-6b329724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
     behance={
@@ -58,7 +58,7 @@ const links =[
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"minhajktp18@gmail.com"
   },
     google={
