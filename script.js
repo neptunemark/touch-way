@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/pngtree.png",
+    profile_pic: "./image/minhaj.jpg",
     profile_logo: "",
 
-    Name: "Neptune Mark",
-    designation: "Digital Creators",
-    des_link_text: "",
-    des_link: "",
-    contact: "./contact/sabith.vcf",
+    Name: "Muhammed Minhaj PA",
+    designation: "CMO",
+    des_link_text: "@Neptune mark",
+    des_link: "https://neptunemark.com/",
+    contact: "./contact/minhaj.vcf",
 };
 
 const contact ={
-    contact_no: "+91123456789",
-    whatsapp: "+91123456789",
+    contact_no: "+919961121517",
+    whatsapp: "+919961121517",
     location: "",
-    email: "",
+    email: "minhajktp18@gmail.com",
 };
 
 const profilelogo=[
@@ -23,19 +23,19 @@ const profilelogo=[
 ]
 
 const bannerImage={
-  url: "./image/banner.jpg"
+   url: "./image/banner.jpg"                 // ./image/banner.jpg
 }
 
 
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/shahinpkt?igshid=OGQ5ZDc2ODk2ZA=="
+    link:"https://www.instagram.com/kattu_____?igsh=ZGZ4MmFzZDJveGJz"
   },
     skype={
     visibil: false,
@@ -47,10 +47,10 @@ const links =[
   },
     linkedin={
     visibil: true,
-    link:"https://www.linkedin.com/in/muhammed-shahin-aa2236237?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app"
+    link:"https://www.linkedin.com/in/muhammed-minhaj-p-a-6b329724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
     behance={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     x={
@@ -59,7 +59,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"mohdshahin.pk@gmail.com"
+    link:"minhajktp18@gmail.com"
   },
     google={
     visibil: false,
@@ -78,11 +78,11 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     tiktok={
-    visibil: true,
+    visibil: false,
     link:"https://www.youtube.com/"
   },
     snapchat={
-    visibil: true,
+    visibil: false,
     link:"https://www.youtube.com/"
   },
 ];
