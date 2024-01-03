@@ -4,7 +4,7 @@ const person = {
 
     Name: "Muhammed Minhaj PA",
     designation: "CMO",
-    des_link_text: "@Neptune mark",
+    des_link_text: "@Neptunemark",
     des_link: "https://neptunemark.com/",
     contact: "./contact/minhaj.vcf",
 };
