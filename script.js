@@ -1,8 +1,8 @@
 const person = {
-    profile_pic: "./image/shakkir.jpeg",
+    profile_pic: "./image/asgar.jpeg",
     profile_logo: "",
 
-    Name: "Mohammed Shakir",
+    Name: "Ali Asgar Saifee",
     designation: "Sales Executive",
     des_link_text: "@Al Mufrid Building Materials Trading",
     des_link: "",
@@ -10,8 +10,8 @@ const person = {
 };
 
 const contact ={
-    contact_no: "+971526378653",
-    whatsapp: "+971526378653",
+    contact_no: "+971581452653",
+    whatsapp: "+971581452653",
     location: "",
     email: "almufrid13@gmail.com",
 };
@@ -34,8 +34,8 @@ const links =[
     link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: false,
-    link:""
+    visibil: true,
+    link:"https://www.instagram.com/patta_almufrid_dubai?igsh=dnI1NzN5cHo1b2Ny"
   },
     skype={
     visibil: false,
