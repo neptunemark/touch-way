@@ -1,18 +1,18 @@
 const person = {
-    profile_pic: "./image/asgar.jpeg",
+    profile_pic: "./image/abzir.jpeg",
     profile_logo: "",
 
-    Name: "Ali Asgar Saifee",
-    designation: "Sales Executive",
+    Name: "Abizer Bankoda",
+    designation: "Managing Director",
     des_link_text: "@Al Mufrid Building Materials Trading",
     des_link: "",
-    contact: "./contact/shakkir.vcf",
+    contact: "./contact/abzir.vcf",
 };
 
 const contact ={
-    contact_no: "+971581452653",
-    whatsapp: "+971581452653",
-    location: "",
+    contact_no: "+971526415340",
+    whatsapp: "+971526415341",
+    location: "https://maps.app.goo.gl/UswGkGY9yCjAJ5mNA?g_st=i",
     email: "almufrid13@gmail.com",
 };
 
