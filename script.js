@@ -5,7 +5,7 @@ const person = {
     Name: "Mohammed Shakir",
     designation: "Sales Executive",
     des_link_text: "@Al Mufrid Building Materials Trading",
-    des_link: "https://neptunemark.com/",
+    des_link: "",
     contact: "./contact/shakkir.vcf",
 };
 
@@ -34,8 +34,8 @@ const links =[
     link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
-    link:"patta_almufrid_dubai"
+    visibil: false,
+    link:""
   },
     skype={
     visibil: false,
