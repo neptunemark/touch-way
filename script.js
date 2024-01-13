@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/abzir.jpeg",
+    profile_pic: "./image/sidhik.jpg",
     profile_logo: "",
 
-    Name: "Abizer Bankoda",
+    Name: "Sidhique IK",
     designation: "Managing Director",
-    des_link_text: "@Al Mufrid Building Materials Trading",
+    des_link_text: "@Aiswarya Furniture",
     des_link: "",
-    contact: "./contact/abzir.vcf",
+    contact: "./contact/sidhique IK.vcf",
 };
 
 const contact ={
-    contact_no: "+971526415340",
-    whatsapp: "+971526415341",
-    location: "https://maps.app.goo.gl/UswGkGY9yCjAJ5mNA?g_st=i",
-    email: "almufrid13@gmail.com",
+    contact_no: "+917034499666",
+    whatsapp: "+917034499666",
+    location: "https://g.co/kgs/ze8Ldsn",
+    email: "aiswaryafurnitureclt@gmail.com",
 };
 
 const profilelogo=[
@@ -30,12 +30,12 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
+    visibil: true,
+    link:"https://www.facebook.com/profile.php?id=100069827343107"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/patta_almufrid_dubai?igsh=dnI1NzN5cHo1b2Ny"
+    link:"https://www.instagram.com/aiswaryafurnitureperambra/"
   },
     skype={
     visibil: false,
@@ -58,8 +58,8 @@ const links =[
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: false,
-    link:"minhajktp18@gmail.com"
+    visibil: true,
+    link:"aiswaryafurnitureclt@gmail.com"
   },
     google={
     visibil: false,
