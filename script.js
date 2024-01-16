@@ -6,7 +6,7 @@ const person = {
     designation: "PRO Services",
     des_link_text: "",
     des_link: "",
-    contact: "./contact/sidhique.vcf",
+    contact: "./contact/Zainu.vcf",
 };
 
 const contact ={
