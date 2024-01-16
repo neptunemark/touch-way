@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/sidhik.jpg",
+    profile_pic: "./image/brodoc.jpeg",
     profile_logo: "",
 
-    Name: "Sidhique IK",
-    designation: "Managing Director",
-    des_link_text: "@Aiswarya Furniture",
+    Name: "Brodoc Services",
+    designation: "PRO Services",
+    des_link_text: "",
     des_link: "",
-    contact: "./contact/sidhique IK.vcf",
+    contact: "./contact/sidhique.vcf",
 };
 
 const contact ={
-    contact_no: "+917034499666",
-    whatsapp: "+917034499666",
-    location: "https://g.co/kgs/ze8Ldsn",
-    email: "aiswaryafurnitureclt@gmail.com",
+    contact_no: "+97430205458",
+    whatsapp: "+97430205458",
+    location: "https://maps.app.goo.gl/EQh74Uemy9CFVHNY7",
+    email: "brodocqatar@gmail.com",
 };
 
 const profilelogo=[
@@ -30,11 +30,11 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/profile.php?id=100069827343107"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/aiswaryafurnitureperambra/"
   },
     skype={
@@ -58,12 +58,12 @@ const links =[
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"aiswaryafurnitureclt@gmail.com"
   },
     google={
-    visibil: false,
-    link:"https://navigotrips.com/"
+    visibil: true,
+    link:"https://maps.app.goo.gl/EQh74Uemy9CFVHNY7"
   },
     telegram={
     visibil: false,
