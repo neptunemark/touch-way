@@ -78,8 +78,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     tiktok={
-    visibil: false,
-    link:"https://www.youtube.com/"
+    visibil: true,
+    link:"https://www.tiktok.com/@jamil_tailoring?_t=8j71VsLtPQv&_r=1"
   },
     snapchat={
     visibil: false,
