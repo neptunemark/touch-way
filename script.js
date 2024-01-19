@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/greenarc.jpeg",
+    profile_pic: "./image/mian.jpeg",
     profile_logo: "",
 
-    Name: "ALTHAF NAZAR",
-    designation: "PRINCIPAL ARCHITECT",
-    des_link_text: "@GREENARC BUILDERS",
-    des_link: "https://greenarcarchitects.com",
-    contact: "./contact/greenarc.vcf",
+    Name: "Mian ADIL",
+    designation: "",
+    des_link_text: "@Wafa Alain Tailoring & Embroidery ",
+    des_link: "",
+    contact: "./contact/mian.vcf",
 };
 
 const contact ={
-    contact_no: "+919995718809",
-    whatsapp: "+919995718809",
-    location: "https://maps.app.goo.gl/chdAmr8xHvS1W1qR7",
-    email: "pagreenarc@gmail.com",
+    contact_no: "+971501492196",
+    whatsapp: "+971501492196",
+    location: "https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6",
+    email: "Wafaalain.uae@gmail.com",
 };
 
 const profilelogo=[
@@ -31,11 +31,11 @@ const bannerImage={
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/profile.php?id=100063962385527"
+    link:"https://www.facebook.com/WafaAlain/"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/greenarc.architecture"
+    link:"https://www.instagram.com/nura.design/"
   },
     skype={
     visibil: false,
@@ -63,7 +63,7 @@ const links =[
   },
     google={
     visibil: true,
-    link:"https://www.google.com/maps/place/GreenArc+Builders%26Architects/@9.1061262,76.5059202,17z/data=!4m18!1m9!3m8!1s0x3b06038466f8e0a3:0xccb3889afbf9d9dc!2sGreenArc+Builders%26Architects!8m2!3d9.1061262!4d76.5059202!9m1!1b1!16s%2Fg%2F11h0mrzklt!3m7!1s0x3b06038466f8e0a3:0xccb3889afbf9d9dc!8m2!3d9.1061262!4d76.5059202!9m1!1b1!16s%2Fg%2F11h0mrzklt?entry=ttu"
+    link:"https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6"
   },
     telegram={
     visibil: false,
