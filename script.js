@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/mian.jpeg",
+    profile_pic: "./image/hasanath.jpg",
     profile_logo: "",
 
-    Name: "Mian ADIL",
-    designation: "",
-    des_link_text: "@Wafa Alain Tailoring & Embroidery ",
+    Name: "Dr Syed Hasnat Ahmed Bokhari",
+    designation: "Medical Consultant ",
+    des_link_text: "@Al Syed Hijama and Healthcare",
     des_link: "",
-    contact: "./contact/mian.vcf",
+    contact: "./contact/hasanath.vcf",
 };
 
 const contact ={
-    contact_no: "+971501492196",
-    whatsapp: "+971501492196",
-    location: "https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6",
-    email: "Wafaalain.uae@gmail.com",
+    contact_no: "+971554406140",
+    whatsapp: "+971554406140",
+    location: "",
+    email: "iq786pk@yahoo.com",
 };
 
 const profilelogo=[
@@ -30,12 +30,12 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/WafaAlain/"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/nura.design/"
+    link:"https://www.instagram.com/drsyedhasnat/"
   },
     skype={
     visibil: false,
@@ -58,11 +58,11 @@ const links =[
     link:"https://x.com/shahinpkt/"
   },
     mail={
-    visibil: false,
-    link:"aiswaryafurnitureclt@gmail.com"
+    visibil: true,
+    link:"iq786pk@yahoo.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6"
   },
     telegram={
