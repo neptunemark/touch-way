@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/hasanath.jpg",
+    profile_pic: "./image/jamil.jpg",
     profile_logo: "",
 
-    Name: "Dr Syed Hasnat Ahmed Bokhari",
-    designation: "Medical Consultant ",
-    des_link_text: "@Al Syed Hijama and Healthcare",
+    Name: "Muhammad Qasim",
+    designation: "Owner ",
+    des_link_text: "@Jamil Tailoring & Embroidery",
     des_link: "",
-    contact: "./contact/hasanath.vcf",
+    contact: "./contact/jamil.vcf",
 };
 
 const contact ={
-    contact_no: "+971554406140",
-    whatsapp: "+971554406140",
-    location: "",
-    email: "iq786pk@yahoo.com",
+    contact_no: "+971556948948",
+    whatsapp: "+971556948948",
+    location: "https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8",
+    email: "qasimjamil33@gmail.com",
 };
 
 const profilelogo=[
@@ -23,7 +23,7 @@ const profilelogo=[
 ]
 
 const bannerImage={
-   url: "./image/banner.jpg"                 // ./image/banner.jpg
+   url: "./image/jamilb.jpg"                 // ./image/banner.jpg
 }
 
 
@@ -34,7 +34,7 @@ const links =[
     link:"https://www.facebook.com/WafaAlain/"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/drsyedhasnat/"
   },
     skype={
@@ -62,8 +62,8 @@ const links =[
     link:"iq786pk@yahoo.com"
   },
     google={
-    visibil: false,
-    link:"https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6"
+    visibil: true,
+    link:"https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8"
   },
     telegram={
     visibil: false,
