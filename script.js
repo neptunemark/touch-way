@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/jamil.jpeg",
+    profile_pic: "./image/tibah.png",
     profile_logo: "",
 
-    Name: "Muhammad Qasim",
-    designation: "Owner ",
-    des_link_text: "@Jamil Tailoring & Embroidery",
-    des_link: "",
-    contact: "./contact/jamil.vcf",
+    Name: "Tiba Hotels",
+    designation: "",
+    des_link_text: "@Banglore",
+    des_link: "https://tibahotels.com/",
+    contact: "./contact/tibah.vcf",
 };
 
 const contact ={
-    contact_no: "+971556948948",
-    whatsapp: "+971556948948",
-    location: "https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8",
-    email: "qasimjamil33@gmail.com",
+    contact_no: "+918891691663",
+    whatsapp: "+919136622221",
+    location: "",
+    email: "tibahotelsbanglore@gmail.com",
 };
 
 const profilelogo=[
@@ -23,7 +23,7 @@ const profilelogo=[
 ]
 
 const bannerImage={
-   url: "./image/jamilb.jpg"                 // ./image/banner.jpg
+   url: "./image/banner.jpg"                 // ./image/banner.jpg
 }
 
 
@@ -59,10 +59,10 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"iq786pk@yahoo.com"
+    link:"info@tibahotels.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8"
   },
     telegram={
@@ -78,7 +78,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     tiktok={
-    visibil: true,
+    visibil: false,
     link:"https://www.tiktok.com/@jamil_tailoring?_t=8j71VsLtPQv&_r=1"
   },
     snapchat={
