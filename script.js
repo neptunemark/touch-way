@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/tibah.png",
+    profile_pic: "./image/kabir.jpg",
     profile_logo: "",
 
-    Name: "Tiba Hotels",
-    designation: "",
-    des_link_text: "@Banglore",
-    des_link: "https://tibahotels.com/",
-    contact: "./contact/tibah.vcf",
+    Name: "Kabir Hosin",
+    designation: "Director",
+    des_link_text: "@Jabal Al Baraka",
+    des_link: "",
+    contact: "./contact/kabir.vcf",
 };
 
 const contact ={
-    contact_no: "+918891691663",
-    whatsapp: "+919136622221",
-    location: "",
-    email: "tibahotelsbanglore@gmail.com",
+    contact_no: "+971566419443",
+    whatsapp: "+971566419443",
+    location: "https://maps.app.goo.gl/hr4ZP6a45nk4qktu6",
+    email: "kabirhussai976@gmail.com",
 };
 
 const profilelogo=[
@@ -59,7 +59,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"info@tibahotels.com"
+    link:"kabirhussai976@gmail.com"
   },
     google={
     visibil: false,
