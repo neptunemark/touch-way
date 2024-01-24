@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/kabir.jpg",
+    profile_pic: "./image/muthu.png",
     profile_logo: "",
 
-    Name: "Kabir Hosin",
+    Name: "Muhammed Muzammil",
     designation: "Director",
-    des_link_text: "@Jabal Al Baraka",
+    des_link_text: "@MM group",
     des_link: "",
-    contact: "./contact/kabir.vcf",
+    contact: "./contact/muthu.vcf",
 };
 
 const contact ={
-    contact_no: "+971566419443",
-    whatsapp: "+971566419443",
-    location: "https://maps.app.goo.gl/hr4ZP6a45nk4qktu6",
-    email: "kabirhussai976@gmail.com",
+    contact_no: "+971545969652",
+    whatsapp: "+971545969652",
+    location: "",
+    email: "muzammilkattippara916@gmail.com",
 };
 
 const profilelogo=[
@@ -34,8 +34,8 @@ const links =[
     link:"https://www.facebook.com/WafaAlain/"
   },
     instagram={
-    visibil: false,
-    link:"https://www.instagram.com/drsyedhasnat/"
+    visibil: true,
+    link:"https://www.instagram.com/_muzammil_mhd/"
   },
     skype={
     visibil: false,
@@ -59,7 +59,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"kabirhussai976@gmail.com"
+    link:"muzammilkattippara916@gmail.com"
   },
     google={
     visibil: false,
