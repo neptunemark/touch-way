@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/muthu.png",
+    profile_pic: "./image/touch.jpg",
     profile_logo: "",
 
-    Name: "Muhammed Muzammil",
-    designation: "Director",
-    des_link_text: "@MM group",
+    Name: "TOUCH WAY",
+    designation: "MOBILE PHONES",
+    des_link_text: "@",
     des_link: "",
-    contact: "./contact/muthu.vcf",
+    contact: "./contact/touch.vcf",
 };
 
 const contact ={
-    contact_no: "+971545969652",
-    whatsapp: "+971545969652",
-    location: "",
-    email: "muzammilkattippara916@gmail.com",
+    contact_no: "+971566605699",
+    whatsapp: "+971562636822",
+    location: "https://maps.app.goo.gl/2oXo8cocpHxhNeMw5",
+    email: "touchwaymobile@gmail.com",
 };
 
 const profilelogo=[
@@ -34,7 +34,7 @@ const links =[
     link:"https://www.facebook.com/WafaAlain/"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/_muzammil_mhd/"
   },
     skype={
